@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="clipVisual">
       <div className='bg'></div>
-      <div className='earth'>
+      <div className='tree'>
         <figure>
-          <img src="./earth.png" alt="earth" />
+          <img src="./tree.png" alt="tree" />
         </figure>
       </div>
       <h1>Visual Impact Design With Space</h1>

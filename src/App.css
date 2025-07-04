@@ -82,6 +82,6 @@ img {
 @media (max-width:1024px) {
     .clipVisual h1{
         font-size: 3.5rem;
-        top: 50%;
+        top: 60%;
     }
 }
